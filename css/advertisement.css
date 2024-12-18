@@ -1,0 +1,21 @@
+li {
+    list-style-type: none;
+}
+.advertisement-head {
+    display: none;
+}
+.discountmobile {
+    background-image: none;
+    background-repeat: no-repeat;
+    width: 335px;
+    height: 102px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0px;
+}
+.advertisement {
+    background-color: blue;
+}
+.discount-span {
+    background: rgba(251, 251, 251, 1);
+}
